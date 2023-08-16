@@ -8,4 +8,4 @@
 ###   :date:             update time： 2023.03.20
 
 ### I will continue to make progress until death.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikyy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisikyy=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
